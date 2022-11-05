@@ -53,19 +53,19 @@
  
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 ## 🏆 GitHub Trophies
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hartupma" alt="shivam" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hartupma" alt="shivam" /></a> </p>
  
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 <h2><i>My Github Stats</i><h2>
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Hartupma&theme=gotham" alt="shivam" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Hartupma&show_icons=true&theme=gotham" height="255px" width="47%"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hartupma&theme=gotham" alt="hartupma" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=hartupma&show_icons=true&theme=gotham" height="255px" width="47%"/>
 <div>
   </br>
  
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hartupma&theme=gotham&langs_count=8" alt="shivam" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Hartupma&theme=gotham&hide_border=true&area=true" height="255px" width="70%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hartupma&theme=gotham&langs_count=8" alt="hartupma" height="260px" width="25%" />
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=hartupma&theme=gotham&hide_border=true&area=true" height="255px" width="70%"/>
 <div>
  
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
