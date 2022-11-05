@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 <h3 >Connect with me:</h3>
 <p >
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harshit-awasthi-fsd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-yadav-068962231/" height="30" width="40"  /></a>
+<a href="linkedin.com/in/harshit-awasthi-fsd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-yadav-068962231/" height="30" width="40"  /></a>
 </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 <h3 align="left">🚀 Languages and Tools:</h3>
