@@ -116,6 +116,24 @@
 <a><img src="https://marvel-b1-cdn.bc0a.com/f00000000243109/1x5o5mujiug388ttap1p8s17-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/AWS-logo-2.jpg" height="100"></a>
 </td>
 </tr>
+ <tr>
+<td width="25%" align="center">
+<p dir="auto"><span>Bootstrap</span><br><br></p>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="100"></a>
+</td>
+  <td width="25%" align="center">
+<p dir="auto"><span>Postman</span><br><br></p>
+<a><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="100"></a>
+</td>
+  <td width="25%" align="center">
+<p dir="auto"><span>React</span><br><br></p>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="100"></a>
+</td>
+    <td width="25%" align="center">
+<p dir="auto"><span>Tailwind CSS</span><br><br></p>
+<a><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="100"></a>
+</td>
+ </tr>
 </tbody>
 </table>
 <hr>
