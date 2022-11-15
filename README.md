@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)]
+![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Harshit Awasthi</h1>
 <h3 align="center">A passionate Java WebDevloper</h3>
 <img align="right" width="400" src="https://img.etimg.com/thumb/height-450,width-600,imgsize-638053,msid-84146056/.jpg" alt="Coding">
