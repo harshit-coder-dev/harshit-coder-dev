@@ -30,7 +30,7 @@
 <a href="https://www.linkedin.com/in/harshit-awasthi-fsd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ram" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Hacker_Bolte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ram" height="30" width="40" /></a>
 <a href="https://leetcode.com/BeastLearner/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ram" height="30" width="40" /></a>
- <a href="https://www.codechef.com/users/harbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/code-chef.svg" alt="ram" height="30" width="40" /></a>
+ <a href="https://www.codechef.com/users/harbe" target="blank"><img align="center" src="https://icons8.com/icon/Wq4dyyhFKRz6/codechef" alt="ram" height="30" width="40" /></a>
 </p>
 
 
