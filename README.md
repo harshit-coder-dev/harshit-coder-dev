@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-
+<h3 align="left">🚀 Languages and Tools:</h3>
 <div align="center">
  
  <div align="center"><h3 align="center">Frontend</h3>
