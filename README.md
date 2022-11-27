@@ -137,12 +137,7 @@
 </tbody>
 </table>
 <hr>
-<!-- <br>
 
----
-[![](https://visitcount.itsvg.in/api?id=hartumpa&icon=0&color=1)](https://visitcount.itsvg.in)
- 
-<br/> -->
  
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 ## 🏆 GitHub Trophies
