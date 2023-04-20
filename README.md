@@ -140,19 +140,19 @@
  
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 ## 🏆 GitHub Trophies
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hartumpa" alt="shivam" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit-coder-dev" alt="shivam" /></a> </p>
  
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 <h2><i>My Github Stats</i><h2>
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Hartumpa&theme=gotham" alt="hartupma" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Hartumpa&show_icons=true&theme=gotham" height="255px" width="47%"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-coder-dev&theme=gotham" alt="hartupma" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=harshit-coder-dev&show_icons=true&theme=gotham" height="255px" width="47%"/>
 <div>
   </br>
  
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hartumpa&theme=gotham&langs_count=8" alt="hartupma" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Hartumpa&theme=gotham&hide_border=true&area=true" height="255px" width="70%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-coder-dev&theme=gotham&langs_count=8" alt="hartupma" height="260px" width="25%" />
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=harshit-coder-dev&theme=gotham&hide_border=true&area=true" height="255px" width="70%"/>
 <div>
  
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
